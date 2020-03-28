@@ -5,4 +5,4 @@
 ## First one to finish this games will win a valuble book or two or three .... 
 
 # Checkout 
-[ Sheldon1 Reverse Engineering](https://github.com/Shashied/bigbangtheory/wiki/Bigbang)
+[ Sheldon1 Reverse Engineering](https://github.com/Shashied/bigbangtheory/wiki/Sheldon1)
