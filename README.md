@@ -1,6 +1,7 @@
 # Sheldon1
 
 ## Explanation
+***
 ## [ Sheldon1 Reverse Engineering](https://github.com/Shashied/bigbangtheory/wiki/Sheldon1)  
 
 ### Quick Links
@@ -9,7 +10,7 @@
   * ### [Phase 3](https://github.com/Shashied/bigbangtheory/wiki/Sheldon1#Phase_3)
   * ### [Phase 4](https://github.com/Shashied/bigbangtheory/wiki/Sheldon1#Phase_4)
 
-
+***
 
 ## [ Sheldon2 Reverse Engineering](https://github.com/Shashied/bigbangtheory/wiki/Sheldon2)
 
